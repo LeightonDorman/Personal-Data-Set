@@ -9,4 +9,4 @@ This data is describing the yield and total number of acres of wheat in the ever
 
 ## All State Boxplot
 <img src= "https://raw.githubusercontent.com/LeightonDorman/Personal-Data-Set/main/wheat_boxplot_allstate.jpeg">
-caption: Boxplot of all states seperating the data into quartiles. Outliers are shown in red asterisks. 
+*caption:* Boxplot of all states seperating the data into quartiles. Outliers are shown in red asterisks. 
