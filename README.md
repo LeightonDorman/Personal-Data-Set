@@ -9,8 +9,8 @@ This data is describing the yield and total number of acres of wheat in the ever
 
 ## Total Yield from All States
 <img src= "https://raw.githubusercontent.com/LeightonDorman/Personal-Data-Set/main/total_wheat_yield_state.jpeg">
-*caption* Bar plot of the total wheat yield from each state. The top three wheat producing states are Kansas, North Dekota, and Washington.
+*caption:* Bar plot of the total wheat yield from each state. The top three wheat producing states are Kansas, North Dekota, and Washington.
 
 ## All State Boxplot
 <img src= "https://raw.githubusercontent.com/LeightonDorman/Personal-Data-Set/main/wheat_boxplot_allstate.jpeg">
-*caption* Boxplot of all states seperating the data into quartiles. Outliers are shown in red asterisks.
+*caption:* Boxplot of all states seperating the data into quartiles. Outliers are shown in red asterisks.
